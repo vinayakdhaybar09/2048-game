@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/images/2048logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#57407c"
     },
     "ios": {
       "supportsTablet": true
@@ -18,9 +18,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/2048logo.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#57407c"
       },
-       "package": "com.2048.game"
+       "package": "com.vinayak.game"
     },
     "web": {
       "bundler": "metro",
